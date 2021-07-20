@@ -15,7 +15,7 @@
     "@busfor/react-native-navigation-appearance": "file:../",
     "@react-native-community/async-storage": "^1.11.0",
     "react": "16.11.0",
-    "react-native": "0.62.2",
+    "react-native": "0.62.3",
     "react-native-navigation": "^6.7.1"
   },
   "devDependencies": {
